@@ -1,0 +1,9 @@
+HTTP_PROXY=http://p1proxy.frb.org:8080/
+HTTPS_PROXY=https://p1proxy.frb.org:8080/
+NO_PROXY=frb.org
+
+
+
+
+
+
