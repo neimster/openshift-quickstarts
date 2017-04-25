@@ -28,18 +28,17 @@
   <proxies>
     <!-- proxy
       Specification for one proxy, to be used in connecting to the network.
-
+    -->
     <proxy>
       <id>optional</id>
       <active>true</active>
       <protocol>http</protocol>
-      <username>proxyuser</</username>
-      <password>proxypass</password>
-      <host>proxy.host.net</host>
-      <port>80</port>
-      <nonProxyHosts>local.net|some.host.com</nonProxyHosts>
+      <username></username>
+      <password></password>
+      <host>p1proxy.frb.org</host>
+      <port>8080</port>
+      <nonProxyHosts>frb.org|example.com</nonProxyHosts>
     </proxy>
-    -->
   </proxies>
   
   <profiles>
